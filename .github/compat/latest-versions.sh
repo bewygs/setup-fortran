@@ -21,7 +21,6 @@ LATEST_intel_macos_26_intel="2021.2"
 LATEST_intel_ubuntu_22_04="2025.2"
 LATEST_intel_ubuntu_24_04="2025.2"
 LATEST_intel_windows_2022="2025.2"
-LATEST_intel_windows_2025="2025.2"
 
 # Latest supported intel-classic versions by runner
 LATEST_intel_classic_macos_14="2021.10"
@@ -32,7 +31,6 @@ LATEST_intel_classic_macos_26_intel="2021.10"
 LATEST_intel_classic_ubuntu_22_04="2021.12"
 LATEST_intel_classic_ubuntu_24_04="2021.12"
 LATEST_intel_classic_windows_2022="2021.12"
-LATEST_intel_classic_windows_2025="2021.12"
 
 # Latest supported lfortran versions by runner
 LATEST_lfortran_macos_14="0.58.0"
@@ -42,8 +40,6 @@ LATEST_lfortran_macos_26="0.58.0"
 LATEST_lfortran_macos_26_intel="0.58.0"
 LATEST_lfortran_ubuntu_22_04="0.58.0"
 LATEST_lfortran_ubuntu_24_04="0.58.0"
-LATEST_lfortran_windows_2022="0.58.0"
-LATEST_lfortran_windows_2025="0.58.0"
 
 # Latest supported nvidia-hpc versions by runner
 LATEST_nvidia_hpc_ubuntu_22_04="26.1"
